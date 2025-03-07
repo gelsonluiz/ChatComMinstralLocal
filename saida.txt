@@ -1,0 +1,36 @@
+INSTALAÇÃO E CONFIGURAÇÃO OPEN VPN 
+ 
+1 – Baixe o cliente OpenVPN através do link abaixo: 
+ 
+ 
+ 
+https://swupdate.openvpn.org/community/releases/OpenVPN-2.6.8-I001-
+amd64.msi 
+ 
+2 – Prossiga com a instalação e ao concluir, importe o perfil de conexão VPN ao Detran 
+que você encontrará no link abaixo: 
+ 
+ 
+https://box.detran.ms.gov.br/s/Swq2KciKqWba9dx 
+ 
+3 – Após a instalação o programa estará sempre localizado na bandeja do sistema ao 
+lado do relógio do Windows. Para acessá-lo e importar o perfil, clique na seta que 
+aponta para baixo para expandir os programas conforme tela abaixo e clique com o 
+botão direito do mouse no ícone do OpenVPN. 
+ 
+ 
+ 
+4 – Selecione a opção Import e depois Importar arquivo... 
+ 
+
+5 – Selecione o perfil detran.ovpn. Clique novamente com o botão direito em cima do 
+programa e selecione Conectar. 
+ 
+ 
+6 – A tela solicitando usuário e senha será exibida. Preencha os campos e ao final da 
+conexão e tela será oculta e uma mensagem nas notificações do Windows será exibida 
+(de acordo com a versão do OS). 
+ 
+ 
+ 
+
